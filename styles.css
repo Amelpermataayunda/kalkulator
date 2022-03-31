@@ -41,9 +41,23 @@ body {
 	
 }
 
+.button:hover {
+
+    background-color: #383838;
+
+}
+
+.button:active {
+
+    position: relative;
+
+    top: 3px;
+
+}
+
 .btn-green {
-	background:lightgreen;
-	color:#607d8b;
+	background: #607d8b;
+	color: white;
 }
 
 .textarea {
